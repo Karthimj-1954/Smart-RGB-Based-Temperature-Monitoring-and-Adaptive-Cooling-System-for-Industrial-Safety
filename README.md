@@ -16,14 +16,14 @@ This project presents a smart industrial safety system that monitors temperature
 ## 🖼️ Project Visuals
 
 ### 🔷 Block Diagram
-![Block Diagram](images/block_diagram.png)
+![Block Diagram](Block Diagram.png)
 
 ### 🔷 Circuit Diagram
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](Circuit Diagram.png)
 
-> 📁 **Note:** Create an `images` folder in your repository and upload your diagrams with these filenames.
-
----
+### 🔷 Hardware Connection
+![a) Hardware Connection 1](Hardware Connection 1.png)
+![b) Hardware Connection 1](Hardware Connection 2.png)
 
 ## 🚀 Features
 
