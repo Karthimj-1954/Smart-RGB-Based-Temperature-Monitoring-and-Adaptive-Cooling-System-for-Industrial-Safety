@@ -16,14 +16,14 @@ This project presents a smart industrial safety system that monitors temperature
 ## 🖼️ Project Visuals
 
 ### 🔷 Block Diagram
-![Block Diagram](Block Diagram.png)
+![Block Diagram](Smart-RGB-Based-Temperature-Monitoring-and-Adaptive-Cooling-System-for-Industrial-Safety/Block Diagram.png)
 
 ### 🔷 Circuit Diagram
-![Circuit Diagram](Circuit Diagram.png)
+![Circuit Diagram](Smart-RGB-Based-Temperature-Monitoring-and-Adaptive-Cooling-System-for-Industrial-Safety/Circuit Diagram.png)
 
 ### 🔷 Hardware Connection
-![a) Hardware Connection 1](Hardware Connection 1.png)
-![b) Hardware Connection 1](Hardware Connection 2.png)
+![a) Hardware Connection 1](Smart-RGB-Based-Temperature-Monitoring-and-Adaptive-Cooling-System-for-Industrial-Safety/Hardware Connection 1.png)
+![b) Hardware Connection 1](Smart-RGB-Based-Temperature-Monitoring-and-Adaptive-Cooling-System-for-Industrial-Safety/Hardware Connection 2.png)
 
 ## 🚀 Features
 
