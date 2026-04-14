@@ -2,8 +2,6 @@
 
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Arduino-blue)
-![Language](https://img.shields.io/badge/Language-C++-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
 ---
@@ -15,15 +13,16 @@ This project presents a smart industrial safety system that monitors temperature
 
 ## 🖼️ Project Visuals
 
-### 🔷 Block Diagram
-![Block Diagram](Smart-RGB-Based-Temperature-Monitoring-and-Adaptive-Cooling-System-for-Industrial-Safety/Block Diagram.png)
+### 🔷 System Design & Implementation
+![Block Diagram](block_diagram.png)
+![Circuit Diagram](circuit_diagram.png)
+![Hardware Setup 1](hardware1.png)
+![Hardware Setup 2](hardware2.png)
 
-### 🔷 Circuit Diagram
-![Circuit Diagram](Smart-RGB-Based-Temperature-Monitoring-and-Adaptive-Cooling-System-for-Industrial-Safety/Circuit Diagram.png)
+**Description:**  
+The images collectively illustrate the complete design and implementation of the system. The block diagram shows the overall architecture where the temperature sensor feeds data to the Arduino, which controls the RGB LED, cooling fan via motor driver, and buzzer. The circuit diagram details all electrical connections and interfacing. The hardware images demonstrate the real-world prototype, from initial setup to the fully integrated working system.
 
-### 🔷 Hardware Connection
-![a) Hardware Connection 1](Smart-RGB-Based-Temperature-Monitoring-and-Adaptive-Cooling-System-for-Industrial-Safety/Hardware Connection 1.png)
-![b) Hardware Connection 1](Smart-RGB-Based-Temperature-Monitoring-and-Adaptive-Cooling-System-for-Industrial-Safety/Hardware Connection 2.png)
+---
 
 ## 🚀 Features
 
@@ -110,7 +109,6 @@ This project presents a smart industrial safety system that monitors temperature
 - IoT-Based Energy Efficiency Systems  
 - Cyber-Physical Smart Grid Integration  
 - Industrial IoT Applications (IEEE Papers)  
-
 
 ## ⚡ Key Takeaway
 
